@@ -1,0 +1,7 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local API keys and secrets
+Config/Secrets.xcconfig
